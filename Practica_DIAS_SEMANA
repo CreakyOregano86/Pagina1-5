@@ -1,0 +1,6 @@
+Lista = ["Lunes", "Martes", "Miercoles", "Jueves", "Viernes"]
+
+
+
+for MiLista in Lista:
+    print (MiLista)
